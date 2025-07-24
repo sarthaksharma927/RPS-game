@@ -4,8 +4,8 @@ This is a fun and interactive Rock-Paper-Scissors game where you can play agains
 
 ## 🔗 Live Demo
 
-👉 [Click here to play](https://your-username.github.io/your-repo-name/rock-paper-scissors/)  
-_(Replace with your actual GitHub Pages URL)_
+👉 [Click here to play](https://sarthaksharma927.github.io/RPS-game/)  
+
 
 ## 🎮 Features
 
